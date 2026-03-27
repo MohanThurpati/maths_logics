@@ -11,7 +11,13 @@ A simple and interactive Python program that allows users to generate multiplica
 - Lightweight and easy to run in any Python environment.
 
 ---
+---
 
+## Usage Example
+
+To run the program, use a Python interpreter. Below is an example of how the interaction looks:
+
+```text
 Enter a number: 5
 
 Multiplication Table for 5
